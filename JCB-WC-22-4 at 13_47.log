@@ -1,0 +1,1111 @@
+time,userID,action,objName
+51,2,MOVE,DataSlip_1
+77,2,SHRINK,DataSlip_16
+81,2,MOVE,DataSlip_16
+89,1,ENLARGE,DataSlip_15
+103,1,SHRINK,DataSlip_15
+108,3,MOVE,DataSlip_15
+115,3,MOVE,DataSlip_15
+122,3,MOVE,DataSlip_11
+125,1,MOVE,DataSlip_11
+128,1,MOVE,Note_0
+132,3,MOVE,DataSlip_10
+136,2,MOVE,DataSlip_19
+137,1,MOVE,DataSlip_20
+140,2,MOVE,DataSlip_19
+140,1,ENLARGE,DataSlip_20
+143,1,MOVE,DataSlip_20
+148,3,MOVE,DataSlip_10
+150,3,ENLARGE,DataSlip_10
+153,3,MOVE,DataSlip_10
+156,3,MOVE,DataSlip_10
+159,3,SHRINK,DataSlip_10
+161,1,SHRINK,DataSlip_20
+162,3,MOVE,DataSlip_10
+163,3,MOVE,DataSlip_14
+164,3,ENLARGE,DataSlip_14
+166,3,MOVE,DataSlip_14
+177,3,SHRINK,DataSlip_14
+180,3,MOVE,DataSlip_14
+181,3,MOVE,Note_0
+181,2,MOVE,DataSlip_19
+182,2,ENLARGE,DataSlip_19
+197,2,SHRINK,DataSlip_19
+198,3,MOVE,DataSlip_20
+200,2,MOVE,DataSlip_19
+200,3,ENLARGE,DataSlip_20
+201,2,MOVE,DataSlip_19
+201,3,MOVE,DataSlip_20
+206,1,SHRINK,DataSlip_20
+209,1,MOVE,DataSlip_20
+212,3,MOVE,DataSlip_4
+213,2,MOVE,DataSlip_11
+213,3,MOVE,DataSlip_15
+215,2,MOVE,DataSlip_16
+217,2,MOVE,DataSlip_1
+218,2,MOVE,DataSlip_20
+221,1,ENLARGE,DataSlip_16
+222,2,MOVE,DataSlip_1
+223,1,MOVE,DataSlip_16
+224,3,MOVE,DataSlip_11
+261,1,SHRINK,DataSlip_16
+263,3,ENLARGE,DataSlip_11
+264,1,MOVE,DataSlip_16
+265,3,MOVE,DataSlip_11
+280,3,SHRINK,DataSlip_11
+283,3,MOVE,DataSlip_11
+283,3,MOVE,DataSlip_11
+285,2,MOVE,DataSlip_11
+286,2,MOVE,DataSlip_1
+287,2,ENLARGE,DataSlip_1
+289,2,MOVE,DataSlip_1
+307,2,SHRINK,DataSlip_1
+310,2,MOVE,DataSlip_1
+314,1,MOVE,DataSlip_12
+316,1,ENLARGE,DataSlip_12
+318,3,MOVE,DataSlip_1
+319,1,MOVE,DataSlip_12
+338,1,SHRINK,DataSlip_12
+339,1,MOVE,DataSlip_12
+341,3,ENLARGE,DataSlip_4
+341,1,MOVE,DataSlip_12
+343,3,MOVE,DataSlip_4
+354,3,SHRINK,DataSlip_4
+357,3,MOVE,DataSlip_4
+358,3,MOVE,DataSlip_17
+359,2,MOVE,DataSlip_4
+363,2,MOVE,DataSlip_8
+364,2,ENLARGE,DataSlip_8
+366,2,MOVE,DataSlip_8
+373,1,SHRINK,DataSlip_8
+377,1,MOVE,DataSlip_8
+381,3,MOVE,DataSlip_17
+382,3,ENLARGE,DataSlip_17
+384,3,MOVE,DataSlip_17
+396,3,ENLARGE,DataSlip_17
+396,3,SHRINK,DataSlip_17
+399,3,MOVE,DataSlip_17
+400,3,MOVE,DataSlip_14
+403,1,MOVE,DataSlip_13
+404,1,ENLARGE,DataSlip_13
+406,1,MOVE,DataSlip_13
+408,3,MOVE,DataSlip_17
+416,2,SHRINK,DataSlip_13
+420,2,MOVE,DataSlip_13
+426,1,MOVE,DataSlip_18
+427,1,ENLARGE,DataSlip_18
+429,1,MOVE,DataSlip_18
+444,1,SHRINK,DataSlip_18
+447,3,MOVE,DataSlip_18
+448,3,MOVE,DataSlip_18
+450,2,MOVE,DataSlip_7
+451,2,ENLARGE,DataSlip_7
+453,2,MOVE,DataSlip_7
+476,3,ENLARGE,DataSlip_7
+476,3,NORMAL,DataSlip_7
+476,3,NORMAL,DataSlip_7
+476,3,ENLARGE,DataSlip_7
+480,3,MOVE,DataSlip_7
+481,3,SHRINK,DataSlip_7
+485,3,MOVE,DataSlip_7
+488,1,MOVE,DataSlip_6
+489,1,ENLARGE,DataSlip_6
+491,1,MOVE,DataSlip_6
+497,3,MOVE,DataSlip_6
+506,2,SHRINK,DataSlip_6
+511,2,MOVE,DataSlip_6
+514,3,ENLARGE,DataSlip_14
+516,3,MOVE,DataSlip_14
+522,3,SHRINK,DataSlip_14
+527,3,MOVE,DataSlip_14
+530,3,MOVE,DataSlip_5
+531,3,MOVE,DataSlip_2
+532,3,MOVE,DataSlip_9
+534,1,MOVE,DataSlip_2
+535,1,ENLARGE,DataSlip_2
+537,1,MOVE,DataSlip_2
+554,1,SHRINK,DataSlip_2
+558,1,MOVE,DataSlip_2
+558,3,MOVE,DataSlip_5
+560,1,ENLARGE,DataSlip_5
+561,2,MOVE,DataSlip_2
+562,1,MOVE,DataSlip_5
+570,3,SHRINK,DataSlip_5
+573,3,MOVE,DataSlip_5
+574,2,MOVE,DataSlip_3
+574,3,MOVE,DataSlip_5
+576,3,MOVE,DataSlip_7
+576,2,ENLARGE,DataSlip_3
+577,3,MOVE,DataSlip_5
+578,2,MOVE,DataSlip_3
+578,3,MOVE,DataSlip_18
+579,3,MOVE,DataSlip_7
+582,3,MOVE,DataSlip_5
+584,3,MOVE,DataSlip_15
+586,3,MOVE,DataSlip_10
+587,3,MOVE,DataSlip_1
+588,3,MOVE,DataSlip_8
+589,2,SHRINK,DataSlip_3
+590,2,MOVE,DataSlip_3
+592,3,MOVE,DataSlip_3
+594,1,MOVE,DataSlip_9
+595,3,MOVE,DataSlip_3
+595,1,ENLARGE,DataSlip_9
+596,-1,SAVE,null
+596,-1,INIT_STAGE2,
+596,1,INTERACTION_TIME,70939 of 247242
+596,1,SLIP_INTERACTION,41 of 153
+596,2,INTERACTION_TIME,58172 of 247242
+596,2,SLIP_INTERACTION,38 of 153
+596,3,INTERACTION_TIME,118131 of 247242
+596,3,SLIP_INTERACTION,74 of 153
+597,3,MOVE,DataSlip_1
+597,1,MOVE,InformationDialog
+637,3,MOVE,DataSlip_9
+648,3,SHRINK,DataSlip_9
+650,3,MOVE,DataSlip_9
+651,3,MOVE,DataSlip_9
+651,2,CREATE_OBJECT,StorageArea_2
+667,-1,ENTER_GROUP_NAME,stay name is: stay
+669,2,MOVE,stay
+675,2,MOVE,Red herrings
+676,2,MOVE,DataSlip_2
+680,2,ADD_OBJ_TO_GROUP,DataSlip_19 -> stay
+680,2,SHRINK,DataSlip_19
+680,2,MOVE,DataSlip_19
+686,1,ADD_OBJ_TO_GROUP,DataSlip_12 -> stay
+686,1,SHRINK,DataSlip_12
+686,1,MOVE,DataSlip_12
+690,3,CREATE_OBJECT,StorageArea_3
+711,-1,ENTER_GROUP_NAME,moving name is: moving
+713,3,MOVE,moving
+713,3,MOVE,moving
+718,3,MOVE,DataSlip_17
+719,3,ADD_OBJ_TO_GROUP,DataSlip_10 -> moving
+719,3,SHRINK,DataSlip_10
+719,3,MOVE,DataSlip_10
+726,3,ADD_OBJ_TO_GROUP,DataSlip_5 -> moving
+726,3,SHRINK,DataSlip_5
+726,3,MOVE,DataSlip_5
+728,1,CREATE_OBJECT,StorageArea_4
+745,-1,ENTER_GROUP_NAME,not sure name is: not sure
+747,1,MOVE,not sure
+748,2,MOVE,stay
+753,2,MOVE,stay
+755,3,ADD_OBJ_TO_GROUP,DataSlip_8 -> moving
+755,3,SHRINK,DataSlip_8
+755,3,MOVE,DataSlip_8
+755,1,MOVE,moving
+756,2,MOVE,DataSlip_2
+756,2,MOVE,DataSlip_2
+756,2,MOVE,DataSlip_2
+757,3,MOVE,DataSlip_8
+758,3,MOVE,DataSlip_8
+759,2,ADD_OBJ_TO_GROUP,DataSlip_13 -> stay
+759,2,SHRINK,DataSlip_13
+759,2,MOVE,DataSlip_13
+759,2,MOVE,stay
+760,1,MOVE,DataSlip_8
+760,2,MOVE,DataSlip_13
+763,2,MOVE,stay
+764,2,MOVE,stay
+765,3,ADD_OBJ_TO_GROUP,DataSlip_14 -> not sure
+765,3,SHRINK,DataSlip_14
+765,3,MOVE,DataSlip_14
+765,2,MOVE,Red herrings
+769,2,MOVE,DataSlip_2
+775,3,ADD_OBJ_TO_GROUP,DataSlip_15 -> not sure
+775,3,SHRINK,DataSlip_15
+775,3,MOVE,DataSlip_15
+779,3,SHRINK,DataSlip_3
+781,3,NORMAL,DataSlip_3
+781,3,SHRINK,DataSlip_3
+782,3,ROTATE,DataSlip_3
+785,3,MOVE,DataSlip_3
+789,3,NORMAL,DataSlip_3
+790,1,ADD_OBJ_TO_GROUP,DataSlip_4 -> not sure
+790,1,SHRINK,DataSlip_4
+790,1,MOVE,DataSlip_4
+791,3,ROTATE,DataSlip_3
+793,3,MOVE,DataSlip_3
+798,2,MOVE,DataSlip_2
+799,2,MOVE,DataSlip_11
+799,3,MOVE,DataSlip_1
+800,2,MOVE,DataSlip_16
+801,2,MOVE,DataSlip_16
+801,1,MOVE,DataSlip_17
+803,2,MOVE,DataSlip_20
+803,3,NORMAL,DataSlip_3
+804,2,MOVE,DataSlip_6
+805,3,ROTATE,DataSlip_3
+805,1,MOVE,DataSlip_18
+806,3,MOVE,DataSlip_7
+807,3,MOVE,DataSlip_3
+808,3,MOVE,DataSlip_7
+810,3,NORMAL,DataSlip_3
+811,3,ROTATE,DataSlip_3
+812,3,MOVE,DataSlip_3
+814,3,MOVE,DataSlip_7
+814,3,MOVE,DataSlip_3
+827,2,MOVE,stay
+828,3,NORMAL,StorageArea_3
+829,2,ADD_OBJ_TO_GROUP,DataSlip_16 -> stay
+829,2,SHRINK,DataSlip_16
+829,2,MOVE,DataSlip_16
+831,1,CREATE_OBJECT,StorageArea_5
+845,-1,ENTER_GROUP_NAME,tgy name is: tgy
+847,3,DELETE_GROUP,tgy
+852,3,MOVE,moving
+853,3,MOVE,DataSlip_9
+857,3,ADD_OBJ_TO_GROUP,DataSlip_17 -> moving
+857,3,SHRINK,DataSlip_17
+857,3,MOVE,DataSlip_17
+863,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> stay
+863,2,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> stay
+863,2,MOVE,DataSlip_13
+865,3,MOVE,not sure
+866,2,ADD_OBJ_TO_GROUP,DataSlip_6 -> stay
+866,2,SHRINK,DataSlip_6
+866,2,MOVE,DataSlip_6
+868,2,MOVE,not sure
+869,2,MOVE,not sure
+877,3,MOVE,DataSlip_3
+879,3,MOVE,DataSlip_3
+881,3,MOVE,DataSlip_9
+883,3,ENLARGE,DataSlip_9
+887,3,MOVE,DataSlip_9
+888,3,SHRINK,DataSlip_9
+893,3,MOVE,DataSlip_9
+897,2,ADD_OBJ_TO_GROUP,DataSlip_9 -> not sure
+897,2,SHRINK,DataSlip_9
+897,2,MOVE,DataSlip_9
+900,3,MOVE,DataSlip_3
+900,3,MOVE,DataSlip_18
+902,3,MOVE,DataSlip_7
+902,3,MOVE,DataSlip_3
+908,2,MOVE,DataSlip_1
+909,2,ENLARGE,DataSlip_1
+913,2,SHRINK,DataSlip_1
+913,2,ADD_OBJ_TO_GROUP,DataSlip_1 -> moving
+913,2,SHRINK,DataSlip_1
+923,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> moving
+923,2,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> moving
+923,2,ADD_OBJ_TO_GROUP,DataSlip_1 -> Red herrings
+923,2,SHRINK,DataSlip_1
+923,2,MOVE,DataSlip_1
+926,2,MOVE,Red herrings
+928,2,MOVE,DataSlip_2
+929,3,MOVE,DataSlip_3
+929,3,MOVE,DataSlip_7
+930,2,MOVE,Red herrings
+930,3,MOVE,DataSlip_18
+931,3,MOVE,DataSlip_7
+932,3,MOVE,DataSlip_18
+932,3,MOVE,DataSlip_7
+933,2,MOVE,DataSlip_1
+937,3,MOVE,DataSlip_3
+939,3,ENLARGE,DataSlip_3
+941,3,MOVE,DataSlip_3
+947,3,SHRINK,DataSlip_3
+952,3,MOVE,DataSlip_3
+955,2,ADD_OBJ_TO_GROUP,DataSlip_3 -> not sure
+955,2,SHRINK,DataSlip_3
+955,2,MOVE,DataSlip_3
+956,3,MOVE,DataSlip_18
+957,3,ENLARGE,DataSlip_18
+960,3,MOVE,DataSlip_18
+963,3,SHRINK,DataSlip_18
+966,2,MOVE,DataSlip_16
+966,3,MOVE,DataSlip_18
+967,3,MOVE,DataSlip_18
+968,2,ADD_OBJ_TO_GROUP,DataSlip_18 -> stay
+968,2,SHRINK,DataSlip_18
+968,2,MOVE,DataSlip_18
+971,3,MOVE,DataSlip_7
+972,3,ENLARGE,DataSlip_7
+974,3,MOVE,DataSlip_7
+981,2,ENLARGE,DataSlip_7
+981,2,SHRINK,DataSlip_7
+985,2,ADD_OBJ_TO_GROUP,DataSlip_7 -> Red herrings
+985,2,SHRINK,DataSlip_7
+985,2,MOVE,DataSlip_7
+989,2,MOVE,DataSlip_11
+990,3,MOVE,DataSlip_13
+991,3,MOVE,DataSlip_13
+991,2,ENLARGE,DataSlip_11
+995,3,MOVE,DataSlip_2
+995,2,MOVE,Keyboard
+997,2,ENLARGE,DataSlip_11
+997,3,MOVE,DataSlip_20
+998,2,SHRINK,DataSlip_11
+998,3,MOVE,DataSlip_20
+1001,2,ADD_OBJ_TO_GROUP,DataSlip_11 -> stay
+1001,2,SHRINK,DataSlip_11
+1001,2,MOVE,DataSlip_11
+1002,1,ENLARGE,DataSlip_13
+1004,1,ADD_OBJ_TO_GROUP,DataSlip_13 -> moving
+1004,1,SHRINK,DataSlip_13
+1004,1,MOVE,DataSlip_13
+1007,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> moving
+1007,1,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> moving
+1007,1,MOVE,DataSlip_13
+1010,1,ENLARGE,DataSlip_13
+1010,3,MOVE,DataSlip_20
+1012,3,MOVE,DataSlip_13
+1017,3,SHRINK,DataSlip_13
+1018,3,ADD_OBJ_TO_GROUP,DataSlip_13 -> moving
+1018,3,SHRINK,DataSlip_13
+1019,3,NORMAL,DataSlip_13
+1019,3,NORMAL,DataSlip_13
+1020,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> moving
+1020,3,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> moving
+1022,3,MOVE,DataSlip_13
+1025,2,MOVE,DataSlip_13
+1026,2,SHRINK,DataSlip_13
+1029,2,ADD_OBJ_TO_GROUP,DataSlip_13 -> Red herrings
+1029,2,SHRINK,DataSlip_13
+1029,2,MOVE,DataSlip_13
+1032,2,MOVE,Red herrings
+1034,2,MOVE,DataSlip_13
+1036,3,MOVE,DataSlip_20
+1038,3,ENLARGE,DataSlip_20
+1039,3,MOVE,DataSlip_20
+1044,3,SHRINK,DataSlip_20
+1050,3,SHRINK,DataSlip_20
+1051,3,ROTATE,DataSlip_20
+1052,3,MOVE,DataSlip_20
+1052,3,MOVE,DataSlip_20
+1053,3,MOVE,DataSlip_20
+1055,2,MOVE,DataSlip_9
+1055,2,MOVE,DataSlip_9
+1057,3,MOVE,DataSlip_2
+1058,3,ADD_OBJ_TO_GROUP,DataSlip_20 -> not sure
+1058,3,SHRINK,DataSlip_20
+1058,3,MOVE,DataSlip_20
+1058,3,MOVE,DataSlip_20
+1060,3,MOVE,DataSlip_20
+1064,3,MOVE,DataSlip_2
+1065,3,MOVE,DataSlip_2
+1066,2,MOVE,DataSlip_20
+1068,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_20 -> not sure
+1068,2,ADD_OBJ_TO_GROUP,DataSlip_20 -> Red herrings
+1068,2,SHRINK,DataSlip_20
+1068,2,MOVE,DataSlip_20
+1071,3,MOVE,DataSlip_2
+1072,3,ENLARGE,DataSlip_2
+1073,3,MOVE,DataSlip_2
+1080,3,SHRINK,DataSlip_2
+1088,3,ADD_OBJ_TO_GROUP,DataSlip_2 -> stay
+1088,3,SHRINK,DataSlip_2
+1088,3,MOVE,DataSlip_2
+1088,-1,CREATE_OBJECT,Note_1
+1088,-1,UPDATE_NOTE,Note_1: - Think about slips (3, 9 and 12). They should be in one group._- Think about slips (4, 8 and 15). They should be in one group._- Think about slips (11 and 14). They should be in one group._
+1088,-1,GROUPING_FAILED,Bad grouping attemept
+1133,3,MOVE,Note_1
+1136,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_3 -> not sure
+1136,2,REMOVE_OBJ_FROM_GROUP,DataSlip_3 -> not sure
+1136,2,MOVE,DataSlip_3
+1142,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_9 -> not sure
+1142,2,REMOVE_OBJ_FROM_GROUP,DataSlip_9 -> not sure
+1142,2,MOVE,DataSlip_9
+1143,3,MOVE,DataSlip_3
+1144,3,MOVE,DataSlip_9
+1145,3,MOVE,DataSlip_3
+1146,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_15 -> not sure
+1146,3,REMOVE_OBJ_FROM_GROUP,DataSlip_15 -> not sure
+1146,3,MOVE,DataSlip_15
+1149,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_12 -> stay
+1149,2,REMOVE_OBJ_FROM_GROUP,DataSlip_12 -> stay
+1149,2,MOVE,DataSlip_12
+1150,3,MOVE,DataSlip_15
+1152,2,MOVE,DataSlip_15
+1156,3,MOVE,DataSlip_9
+1158,3,MOVE,DataSlip_3
+1159,3,ADD_OBJ_TO_GROUP,DataSlip_12 -> not sure
+1159,3,SHRINK,DataSlip_12
+1159,3,MOVE,DataSlip_12
+1160,3,MOVE,not sure
+1163,2,MOVE,not sure
+1164,2,MOVE,not sure
+1166,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_14 -> not sure
+1166,2,REMOVE_OBJ_FROM_GROUP,DataSlip_14 -> not sure
+1166,2,MOVE,DataSlip_14
+1166,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_12 -> not sure
+1166,3,REMOVE_OBJ_FROM_GROUP,DataSlip_12 -> not sure
+1166,3,MOVE,DataSlip_12
+1170,3,MOVE,DataSlip_14
+1172,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_4 -> not sure
+1172,2,REMOVE_OBJ_FROM_GROUP,DataSlip_4 -> not sure
+1172,2,MOVE,DataSlip_4
+1173,3,MOVE,DataSlip_4
+1174,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_8 -> moving
+1174,1,REMOVE_OBJ_FROM_GROUP,DataSlip_8 -> moving
+1174,1,MOVE,DataSlip_8
+1175,3,MOVE,DataSlip_8
+1178,1,MOVE,DataSlip_15
+1179,3,MOVE,DataSlip_15
+1181,3,MOVE,DataSlip_15
+1185,3,MOVE,DataSlip_14
+1188,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_11 -> stay
+1188,2,REMOVE_OBJ_FROM_GROUP,DataSlip_11 -> stay
+1188,2,MOVE,DataSlip_11
+1190,3,MOVE,DataSlip_11
+1200,2,MOVE,moving
+1201,2,MOVE,DataSlip_10
+1202,2,MOVE,DataSlip_17
+1204,2,MOVE,DataSlip_2
+1205,2,MOVE,DataSlip_19
+1206,3,CREATE_OBJECT,StorageArea_6
+1206,2,MOVE,DataSlip_18
+1231,-1,ENTER_GROUP_NAME,ftr name is: ftr
+1232,2,DELETE_GROUP,ftr
+1234,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_10 -> moving
+1234,2,REMOVE_OBJ_FROM_GROUP,DataSlip_10 -> moving
+1234,2,MOVE,DataSlip_10
+1235,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_17 -> moving
+1235,2,REMOVE_OBJ_FROM_GROUP,DataSlip_17 -> moving
+1235,2,MOVE,DataSlip_17
+1236,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_5 -> moving
+1236,2,REMOVE_OBJ_FROM_GROUP,DataSlip_5 -> moving
+1236,2,MOVE,DataSlip_5
+1238,2,MOVE,moving
+1240,2,MOVE,DataSlip_5
+1240,3,ADD_OBJ_TO_GROUP,DataSlip_9 -> moving
+1240,3,SHRINK,DataSlip_9
+1240,3,MOVE,DataSlip_9
+1241,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_18 -> stay
+1241,2,REMOVE_OBJ_FROM_GROUP,DataSlip_18 -> stay
+1241,2,MOVE,DataSlip_18
+1242,3,ADD_OBJ_TO_GROUP,DataSlip_3 -> moving
+1242,3,SHRINK,DataSlip_3
+1242,3,MOVE,DataSlip_3
+1242,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_6 -> stay
+1242,2,REMOVE_OBJ_FROM_GROUP,DataSlip_6 -> stay
+1242,2,MOVE,DataSlip_6
+1244,2,MOVE,stay
+1244,3,MOVE,moving
+1245,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_19 -> stay
+1245,2,REMOVE_OBJ_FROM_GROUP,DataSlip_19 -> stay
+1245,2,MOVE,DataSlip_19
+1245,3,MOVE,DataSlip_9
+1246,2,MOVE,stay
+1246,3,MOVE,moving
+1247,3,MOVE,DataSlip_3
+1247,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> stay
+1247,2,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> stay
+1247,2,MOVE,DataSlip_2
+1248,1,ADD_OBJ_TO_GROUP,DataSlip_12 -> moving
+1248,1,SHRINK,DataSlip_12
+1248,1,MOVE,DataSlip_12
+1249,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_16 -> stay
+1249,2,REMOVE_OBJ_FROM_GROUP,DataSlip_16 -> stay
+1249,2,MOVE,DataSlip_16
+1250,2,MOVE,DataSlip_16
+1251,3,MOVE,DataSlip_12
+1252,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_20 -> Red herrings
+1252,2,REMOVE_OBJ_FROM_GROUP,DataSlip_20 -> Red herrings
+1252,2,MOVE,DataSlip_20
+1252,3,MOVE,DataSlip_3
+1253,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> Red herrings
+1253,2,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> Red herrings
+1253,2,MOVE,DataSlip_13
+1254,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_7 -> Red herrings
+1254,2,REMOVE_OBJ_FROM_GROUP,DataSlip_7 -> Red herrings
+1254,2,MOVE,DataSlip_7
+1256,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> Red herrings
+1256,2,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> Red herrings
+1256,2,MOVE,DataSlip_1
+1256,2,MOVE,stay
+1259,2,MOVE,not sure
+1261,2,MOVE,not sure
+1266,2,MOVE,Red herrings
+1267,3,MOVE,DataSlip_8
+1268,3,MOVE,DataSlip_8
+1281,3,MOVE,DataSlip_4
+1282,3,MOVE,DataSlip_8
+1283,3,MOVE,DataSlip_15
+1293,3,MOVE,DataSlip_4
+1299,3,MOVE,DataSlip_11
+1311,3,MOVE,DataSlip_4
+1312,3,ENLARGE,DataSlip_4
+1315,3,MOVE,DataSlip_4
+1316,3,SHRINK,DataSlip_4
+1317,3,MOVE,DataSlip_4
+1319,3,MOVE,DataSlip_8
+1320,3,ENLARGE,DataSlip_8
+1322,3,MOVE,DataSlip_8
+1323,3,SHRINK,DataSlip_8
+1324,3,MOVE,DataSlip_8
+1325,3,MOVE,DataSlip_15
+1326,3,ENLARGE,DataSlip_15
+1328,3,MOVE,DataSlip_15
+1333,3,ENLARGE,DataSlip_15
+1337,3,SHRINK,DataSlip_15
+1339,3,MOVE,DataSlip_15
+1340,2,CREATE_OBJECT,StorageArea_7
+1347,-1,ENTER_GROUP_NAME,distance name is: distance
+1348,3,MOVE,DataSlip_11
+1349,3,MOVE,DataSlip_11
+1350,3,ADD_OBJ_TO_GROUP,DataSlip_4 -> distance
+1350,3,SHRINK,DataSlip_4
+1350,3,MOVE,DataSlip_4
+1351,2,MOVE,distance
+1351,3,ADD_OBJ_TO_GROUP,DataSlip_8 -> distance
+1351,3,SHRINK,DataSlip_8
+1351,3,MOVE,DataSlip_8
+1353,3,ADD_OBJ_TO_GROUP,DataSlip_15 -> distance
+1353,3,SHRINK,DataSlip_15
+1353,3,MOVE,DataSlip_15
+1354,3,MOVE,DataSlip_4
+1355,3,MOVE,distance
+1358,3,NORMAL,DataSlip_14
+1359,3,NORMAL,DataSlip_14
+1359,3,ROTATE,DataSlip_14
+1360,3,MOVE,DataSlip_11
+1360,3,MOVE,Note_1
+1362,2,MOVE,Note_1
+1364,2,MOVE,DataSlip_14
+1365,3,ENLARGE,DataSlip_11
+1365,2,MOVE,DataSlip_14
+1367,3,MOVE,DataSlip_11
+1369,3,MOVE,DataSlip_11
+1370,3,SHRINK,DataSlip_11
+1372,3,MOVE,DataSlip_14
+1373,3,ENLARGE,DataSlip_14
+1375,3,MOVE,DataSlip_14
+1379,3,MOVE,DataSlip_14
+1381,3,MOVE,DataSlip_14
+1383,3,NORMAL,DataSlip_14
+1385,3,ROTATE,DataSlip_14
+1387,2,SHRINK,DataSlip_14
+1389,2,MOVE,DataSlip_14
+1393,3,MOVE,DataSlip_14
+1397,2,ADD_OBJ_TO_GROUP,DataSlip_14 -> stay
+1397,2,SHRINK,DataSlip_14
+1397,2,MOVE,DataSlip_14
+1399,1,ADD_OBJ_TO_GROUP,DataSlip_11 -> stay
+1399,1,SHRINK,DataSlip_11
+1400,1,MOVE,DataSlip_11
+1401,2,MOVE,DataSlip_11
+1401,2,MOVE,DataSlip_11
+1403,2,MOVE,stay
+1404,2,MOVE,stay
+1406,2,MOVE,not sure
+1407,2,MOVE,stay
+1427,3,MOVE,distance
+1429,3,MOVE,distance
+1432,3,MOVE,distance
+1433,3,MOVE,distance
+1434,3,ADD_OBJ_TO_GROUP,Note_0 -> distance
+1434,3,SHRINK,Note_0
+1434,3,MOVE,Note_0
+1436,-1,REMOVE_OBJ_FROM_GROUP,Note_0 -> distance
+1436,3,REMOVE_OBJ_FROM_GROUP,Note_0 -> distance
+1436,3,MOVE,Note_0
+1436,2,SHRINK,DataSlip_2
+1437,2,ENLARGE,DataSlip_2
+1438,3,MOVE,Note_0
+1439,3,ENLARGE,Note_0
+1440,3,MOVE,Note_0
+1445,3,MOVE,distance
+1448,3,MOVE,moving
+1452,3,MOVE,Trash
+1455,2,MOVE,DataSlip_2
+1459,3,MOVE,stay
+1461,2,ADD_OBJ_TO_GROUP,DataSlip_2 -> not sure
+1461,2,SHRINK,DataSlip_2
+1461,2,MOVE,DataSlip_2
+1462,3,MOVE,stay
+1468,2,ENLARGE,DataSlip_2
+1470,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> not sure
+1470,2,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> not sure
+1470,2,MOVE,DataSlip_2
+1474,2,MOVE,Keyboard
+1490,1,MOVE,DataSlip_2
+1491,1,SHRINK,DataSlip_2
+1493,1,ADD_OBJ_TO_GROUP,DataSlip_2 -> stay
+1493,1,SHRINK,DataSlip_2
+1493,1,MOVE,DataSlip_2
+1496,2,ENLARGE,DataSlip_1
+1516,2,SHRINK,DataSlip_1
+1516,2,ADD_OBJ_TO_GROUP,DataSlip_1 -> not sure
+1516,2,SHRINK,DataSlip_1
+1518,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> not sure
+1518,2,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> not sure
+1518,2,MOVE,DataSlip_1
+1520,1,ADD_OBJ_TO_GROUP,DataSlip_1 -> distance
+1520,1,SHRINK,DataSlip_1
+1520,1,MOVE,DataSlip_1
+1524,1,ENLARGE,DataSlip_17
+1555,1,SHRINK,DataSlip_17
+1559,1,ADD_OBJ_TO_GROUP,DataSlip_17 -> stay
+1559,1,SHRINK,DataSlip_17
+1559,1,MOVE,DataSlip_17
+1560,3,MOVE,DataSlip_2
+1561,3,MOVE,DataSlip_17
+1563,3,MOVE,DataSlip_17
+1565,1,MOVE,DataSlip_18
+1566,3,MOVE,DataSlip_14
+1566,1,MOVE,DataSlip_19
+1567,3,MOVE,DataSlip_11
+1568,1,ENLARGE,DataSlip_19
+1569,1,MOVE,DataSlip_19
+1581,3,SHRINK,DataSlip_19
+1584,3,ADD_OBJ_TO_GROUP,DataSlip_19 -> not sure
+1584,3,SHRINK,DataSlip_19
+1584,3,MOVE,DataSlip_19
+1585,3,MOVE,DataSlip_7
+1586,3,ENLARGE,DataSlip_7
+1588,2,MOVE,DataSlip_19
+1588,3,MOVE,DataSlip_7
+1589,3,MOVE,DataSlip_7
+1596,3,SHRINK,DataSlip_7
+1598,3,ADD_OBJ_TO_GROUP,DataSlip_7 -> Red herrings
+1598,3,SHRINK,DataSlip_7
+1598,3,MOVE,DataSlip_7
+1600,3,NORMAL,StorageArea_0
+1603,3,MOVE,Red herrings
+1604,3,MOVE,DataSlip_7
+1607,3,ENLARGE,DataSlip_20
+1618,3,SHRINK,DataSlip_20
+1621,1,ADD_OBJ_TO_GROUP,DataSlip_20 -> distance
+1621,1,SHRINK,DataSlip_20
+1621,1,MOVE,DataSlip_20
+1624,1,MOVE,DataSlip_20
+1631,1,MOVE,DataSlip_10
+1633,1,ENLARGE,DataSlip_10
+1634,1,MOVE,DataSlip_10
+1656,1,SHRINK,DataSlip_10
+1658,1,ADD_OBJ_TO_GROUP,DataSlip_10 -> not sure
+1658,1,SHRINK,DataSlip_10
+1658,1,MOVE,DataSlip_10
+1660,2,ENLARGE,DataSlip_13
+1662,2,MOVE,DataSlip_13
+1666,2,SHRINK,DataSlip_13
+1668,2,ADD_OBJ_TO_GROUP,DataSlip_13 -> Red herrings
+1668,2,SHRINK,DataSlip_13
+1668,2,MOVE,DataSlip_13
+1673,1,MOVE,DataSlip_6
+1674,3,MOVE,Red herrings
+1674,1,ENLARGE,DataSlip_6
+1676,3,MOVE,DataSlip_7
+1677,1,MOVE,DataSlip_6
+1677,3,MOVE,DataSlip_13
+1683,1,SHRINK,DataSlip_6
+1686,1,ADD_OBJ_TO_GROUP,DataSlip_6 -> stay
+1686,1,SHRINK,DataSlip_6
+1686,1,MOVE,DataSlip_6
+1691,1,MOVE,DataSlip_16
+1692,1,ENLARGE,DataSlip_16
+1693,1,MOVE,DataSlip_16
+1721,1,SHRINK,DataSlip_16
+1725,1,ADD_OBJ_TO_GROUP,DataSlip_16 -> distance
+1725,1,SHRINK,DataSlip_16
+1725,1,MOVE,DataSlip_16
+1728,2,ENLARGE,DataSlip_5
+1729,2,MOVE,DataSlip_5
+1735,2,SHRINK,DataSlip_5
+1738,2,ADD_OBJ_TO_GROUP,DataSlip_5 -> moving
+1738,2,SHRINK,DataSlip_5
+1738,2,MOVE,DataSlip_5
+1743,1,MOVE,DataSlip_18
+1744,1,ENLARGE,DataSlip_18
+1752,2,SHRINK,DataSlip_18
+1755,2,ADD_OBJ_TO_GROUP,DataSlip_18 -> stay
+1755,2,SHRINK,DataSlip_18
+1755,2,MOVE,DataSlip_18
+1755,-1,SAVE,null
+1755,-1,INIT_STAGE3,
+1755,1,INTERACTION_TIME,145832 of 801585
+1755,1,SLIP_INTERACTION,86 of 528
+1755,1,GROUP_INTERACTION,16 of 85
+1755,1,NOTES_INTERACTION,0 of 1
+1755,1,REL_INTERACTION,0 of 0
+1755,2,INTERACTION_TIME,237357 of 801585
+1755,2,SLIP_INTERACTION,163 of 528
+1755,2,GROUP_INTERACTION,44 of 85
+1755,2,NOTES_INTERACTION,0 of 1
+1755,2,REL_INTERACTION,0 of 0
+1755,3,INTERACTION_TIME,418396 of 801585
+1755,3,SLIP_INTERACTION,279 of 528
+1755,3,GROUP_INTERACTION,25 of 85
+1755,3,NOTES_INTERACTION,1 of 1
+1755,3,REL_INTERACTION,0 of 0
+1808,2,MOVE,Red herrings
+1813,1,MOVE,stay
+1814,3,MOVE,DataSlip_3
+1814,3,MOVE,DataSlip_5
+1815,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_14 -> stay
+1815,1,REMOVE_OBJ_FROM_GROUP,DataSlip_14 -> stay
+1815,1,MOVE,DataSlip_14
+1816,3,MOVE,distance
+1817,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> stay
+1817,1,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> stay
+1817,1,MOVE,DataSlip_2
+1817,3,MOVE,DataSlip_12
+1819,1,MOVE,DataSlip_17
+1820,3,MOVE,distance
+1822,1,ADD_OBJ_TO_GROUP,DataSlip_2 -> stay
+1822,1,SHRINK,DataSlip_2
+1822,1,MOVE,DataSlip_2
+1824,3,MOVE,distance
+1826,1,ADD_OBJ_TO_GROUP,DataSlip_14 -> stay
+1826,1,SHRINK,DataSlip_14
+1826,1,MOVE,DataSlip_14
+1828,2,MOVE,distance
+1828,3,MOVE,DataSlip_12
+1830,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_11 -> stay
+1830,1,REMOVE_OBJ_FROM_GROUP,DataSlip_11 -> stay
+1830,1,MOVE,DataSlip_11
+1833,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_14 -> stay
+1833,1,REMOVE_OBJ_FROM_GROUP,DataSlip_14 -> stay
+1833,1,MOVE,DataSlip_14
+1835,1,MOVE,DataSlip_14
+1839,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_17 -> stay
+1839,1,REMOVE_OBJ_FROM_GROUP,DataSlip_17 -> stay
+1839,1,MOVE,DataSlip_17
+1840,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> stay
+1840,1,REMOVE_OBJ_FROM_GROUP,DataSlip_2 -> stay
+1840,1,MOVE,DataSlip_2
+1843,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_18 -> stay
+1843,1,REMOVE_OBJ_FROM_GROUP,DataSlip_18 -> stay
+1843,1,MOVE,DataSlip_18
+1845,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_6 -> stay
+1845,1,REMOVE_OBJ_FROM_GROUP,DataSlip_6 -> stay
+1845,1,MOVE,DataSlip_6
+1846,2,MOVE,stay
+1848,2,DELETE_GROUP,stay
+1856,2,MOVE,Red herrings
+1861,2,MOVE,distance
+1864,2,MOVE,distance
+1867,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_8 -> distance
+1867,2,REMOVE_OBJ_FROM_GROUP,DataSlip_8 -> distance
+1867,2,MOVE,DataSlip_8
+1872,2,MOVE,DataSlip_4
+1873,2,MOVE,DataSlip_8
+1874,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_15 -> distance
+1874,2,REMOVE_OBJ_FROM_GROUP,DataSlip_15 -> distance
+1874,2,MOVE,DataSlip_15
+1875,2,MOVE,DataSlip_8
+1879,2,MOVE,DataSlip_15
+1880,2,MOVE,DataSlip_8
+1882,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_4 -> distance
+1882,2,REMOVE_OBJ_FROM_GROUP,DataSlip_4 -> distance
+1882,2,MOVE,DataSlip_4
+1883,2,MOVE,DataSlip_20
+1885,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> distance
+1885,2,REMOVE_OBJ_FROM_GROUP,DataSlip_1 -> distance
+1885,2,MOVE,DataSlip_1
+1887,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_20 -> distance
+1887,2,REMOVE_OBJ_FROM_GROUP,DataSlip_20 -> distance
+1887,2,MOVE,DataSlip_20
+1888,2,MOVE,distance
+1891,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_16 -> distance
+1891,2,REMOVE_OBJ_FROM_GROUP,DataSlip_16 -> distance
+1891,2,MOVE,DataSlip_16
+1896,2,MOVE,distance
+1897,2,MOVE,Red herrings
+1899,2,DELETE_GROUP,distance
+1904,1,MOVE,moving
+1914,1,MOVE,not sure
+1916,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_10 -> not sure
+1916,1,REMOVE_OBJ_FROM_GROUP,DataSlip_10 -> not sure
+1916,1,MOVE,DataSlip_10
+1918,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_19 -> not sure
+1918,1,REMOVE_OBJ_FROM_GROUP,DataSlip_19 -> not sure
+1918,1,MOVE,DataSlip_19
+1923,2,MOVE,Keyboard
+1924,1,DELETE_GROUP,not sure
+1928,2,MOVE,Keyboard
+1933,2,MOVE,moving
+1934,2,ROTATE,Keyboard
+1941,2,CREATE_OBJECT,Sticker_0
+1946,2,CREATE_OBJECT,DataSlip_14-DataSlip_11-
+1946,2,UPDATE_RELATION,DataSlip_14-DataSlip_11-
+1946,2,MOVE,Sticker_0
+1953,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_3 -> moving
+1953,3,REMOVE_OBJ_FROM_GROUP,DataSlip_3 -> moving
+1953,3,MOVE,DataSlip_3
+1957,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_5 -> moving
+1957,3,REMOVE_OBJ_FROM_GROUP,DataSlip_5 -> moving
+1957,3,MOVE,DataSlip_5
+1958,3,NORMAL,DataSlip_5
+1958,3,ROTATE,DataSlip_5
+1958,2,CREATE_OBJECT,Sticker_1
+1963,2,UPDATE_RELATION,DataSlip_14-DataSlip_11-DataSlip_17-
+1963,2,MOVE,Sticker_1
+1964,1,MOVE,DataSlip_5
+1965,2,CREATE_OBJECT,Sticker_2
+1966,3,MOVE,DataSlip_5
+1969,1,ENLARGE,DataSlip_12
+1969,2,UPDATE_RELATION,DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-
+1969,2,MOVE,Sticker_2
+1971,1,SHRINK,DataSlip_12
+1975,2,MOVE,DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-
+1977,2,MOVE,DataSlip_18
+1978,2,MOVE,DataSlip_6
+1980,3,MOVE,DataSlip_9
+1980,1,MOVE,DataSlip_3
+1980,2,CREATE_OBJECT,Sticker_3
+1981,3,MOVE,moving
+1982,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_12 -> moving
+1982,1,REMOVE_OBJ_FROM_GROUP,DataSlip_12 -> moving
+1983,1,MOVE,DataSlip_12
+1984,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_9 -> moving
+1984,3,REMOVE_OBJ_FROM_GROUP,DataSlip_9 -> moving
+1984,3,MOVE,DataSlip_9
+1984,2,UPDATE_RELATION,DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-
+1984,2,MOVE,Sticker_3
+1984,3,MOVE,DataSlip_12
+1985,3,MOVE,DataSlip_9
+1986,2,CREATE_OBJECT,Sticker_4
+1986,1,ADD_OBJ_TO_GROUP,DataSlip_3 -> moving
+1986,1,SHRINK,DataSlip_3
+1986,1,MOVE,DataSlip_3
+1987,3,MOVE,moving
+1988,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_3 -> moving
+1988,1,REMOVE_OBJ_FROM_GROUP,DataSlip_3 -> moving
+1988,1,MOVE,DataSlip_3
+1989,2,UPDATE_RELATION,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-
+1989,2,MOVE,Sticker_4
+1990,1,DELETE_GROUP,moving
+1992,2,CREATE_OBJECT,Sticker_5
+1995,2,CREATE_OBJECT,DataSlip_8-DataSlip_15-
+1995,2,UPDATE_RELATION,DataSlip_8-DataSlip_15-
+1995,2,MOVE,Sticker_5
+1996,3,CREATE_OBJECT,Sticker_6
+1998,2,CREATE_OBJECT,Sticker_7
+1999,1,CREATE_OBJECT,Sticker_8
+1999,3,NORMAL,Sticker_6
+2001,2,UPDATE_RELATION,DataSlip_8-DataSlip_15-DataSlip_4-
+2001,2,MOVE,Sticker_7
+2003,1,CREATE_OBJECT,DataSlip_12-DataSlip_5-
+2003,1,UPDATE_RELATION,DataSlip_12-DataSlip_5-
+2003,1,MOVE,Sticker_8
+2006,3,UPDATE_RELATION,DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-
+2006,3,MOVE,Sticker_6
+2007,1,CREATE_OBJECT,Sticker_9
+2009,2,MOVE,DataSlip_20
+2010,3,CREATE_OBJECT,Sticker_10
+2010,2,MOVE,DataSlip_16
+2011,1,UPDATE_RELATION,DataSlip_12-DataSlip_5-DataSlip_9-
+2011,1,MOVE,Sticker_9
+2013,1,MOVE,DataSlip_12-DataSlip_5-DataSlip_9-
+2013,3,CREATE_OBJECT,DataSlip_16-DataSlip_20-
+2013,3,UPDATE_RELATION,DataSlip_16-DataSlip_20-
+2013,3,MOVE,Sticker_10
+2015,2,CREATE_OBJECT,Sticker_11
+2018,2,CREATE_OBJECT,DataSlip_19-DataSlip_10-
+2018,2,UPDATE_RELATION,DataSlip_19-DataSlip_10-
+2018,2,MOVE,Sticker_11
+2019,1,CREATE_OBJECT,Sticker_12
+2019,3,CREATE_OBJECT,Sticker_13
+2020,2,CREATE_OBJECT,Sticker_14
+2021,3,UPDATE_RELATION,DataSlip_12-DataSlip_5-DataSlip_9-DataSlip_3-
+2021,3,MOVE,Sticker_13
+2024,3,MOVE,DataSlip_12-DataSlip_5-DataSlip_9-DataSlip_3-
+2024,2,MOVE,Sticker_14
+2030,2,MOVE,Red herrings
+2032,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> Red herrings
+2032,2,REMOVE_OBJ_FROM_GROUP,DataSlip_13 -> Red herrings
+2032,2,MOVE,DataSlip_13
+2034,2,MOVE,Note_1
+2036,2,MOVE,Note_0
+2038,2,MOVE,DataSlip_13
+2041,-1,REMOVE_OBJ_FROM_GROUP,DataSlip_7 -> Red herrings
+2041,2,REMOVE_OBJ_FROM_GROUP,DataSlip_7 -> Red herrings
+2041,2,MOVE,DataSlip_7
+2043,2,MOVE,Red herrings
+2044,2,MOVE,Red herrings
+2044,2,MOVE,Red herrings
+2046,2,MOVE,Red herrings
+2049,2,MOVE,Red herrings
+2051,1,CREATE_OBJECT,Sticker_15
+2053,1,MOVE,Sticker_15
+2056,2,CREATE_OBJECT,DataSlip_7-DataSlip_13-
+2056,2,UPDATE_RELATION,DataSlip_7-DataSlip_13-
+2056,2,MOVE,Sticker_15
+2065,2,MOVE,DataSlip_12-DataSlip_5-DataSlip_9-DataSlip_3-
+2066,2,MOVE,DataSlip_19-DataSlip_10-
+2068,2,MOVE,DataSlip_16-DataSlip_20-
+2070,2,CREATE_OBJECT,Sticker_16
+2075,1,MOVE,DataSlip_16-DataSlip_20-
+2076,2,UPDATE_RELATION,DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2076,2,MOVE,Sticker_16
+2081,1,MOVE,DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2084,2,MOVE,DataSlip_7-DataSlip_13-
+2085,3,MOVE,DataSlip_12-DataSlip_5-DataSlip_9-DataSlip_3-
+2085,1,MOVE,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-
+2085,2,CREATE_OBJECT,DataSlip_9-DataSlip_3-
+2085,2,UPDATE_RELATION,DataSlip_9-DataSlip_3-
+2085,2,UPDATE_RELATION,DataSlip_12-DataSlip_5-
+2085,2,UPDATE_RELATION,DataSlip_9-DataSlip_3-
+2085,2,MOVE,Sticker_9
+2086,2,MOVE,DataSlip_9-DataSlip_3-
+2087,2,MOVE,DataSlip_12-DataSlip_5-
+2087,3,MOVE,DataSlip_19-DataSlip_10-
+2089,2,UPDATE_RELATION,DataSlip_9-DataSlip_3-
+2089,2,UPDATE_RELATION,DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-
+2089,2,MOVE,Sticker_9
+2091,2,MOVE,DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-
+2092,3,MOVE,DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2098,2,MOVE,Note_1
+2115,-1,LINEAR_SEQ,Linear sequencing
+2158,2,MOVE,DataSlip_19-DataSlip_10-
+2161,2,MOVE,DataSlip_19-DataSlip_10-
+2164,2,MOVE,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-
+2168,2,MOVE,DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2171,2,MOVE,DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-
+2173,3,MOVE,DataSlip_7-DataSlip_13-
+2177,3,MOVE,DataSlip_19-DataSlip_10-
+2180,2,MOVE,DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-
+2182,3,CREATE_OBJECT,Sticker_17
+2183,2,MOVE,DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-
+2184,3,UPDATE_RELATION,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-
+2184,3,MOVE,Sticker_17
+2185,3,MOVE,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-
+2188,1,CREATE_OBJECT,Sticker_18
+2192,1,UPDATE_RELATION,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-
+2192,1,MOVE,Sticker_18
+2194,2,CREATE_OBJECT,Sticker_19
+2197,2,UPDATE_RELATION,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2197,2,MOVE,Sticker_19
+2198,2,CREATE_OBJECT,Sticker_20
+2199,2,CREATE_OBJECT,Sticker_21
+2202,2,MOVE,Sticker_21
+2205,2,MOVE,Sticker_21
+2207,2,UPDATE_RELATION,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2207,2,MOVE,Sticker_21
+2211,1,MOVE,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2215,2,MOVE,Note_0
+2215,3,MOVE,Note_1
+2217,3,MOVE,Note_1
+2222,2,MOVE,Keyboard
+2226,-1,LINEAR_SEQ,Linear sequencing
+2249,2,MOVE,Keyboard
+2253,-1,LINEAR_SEQ,Linear sequencing
+2291,2,CREATE_OBJECT,Note_2
+2293,2,MOVE,Note_2
+2295,2,MOVE,Keyboard
+2375,2,MOVE,Note_2
+2381,2,CREATE_OBJECT,Sticker_22
+2382,3,CREATE_OBJECT,Note_3
+2386,3,MOVE,Note_3
+2386,2,UPDATE_RELATION,DataSlip_6-DataSlip_18-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2386,2,MOVE,Sticker_22
+2387,2,MOVE,Note_2
+2387,2,UPDATE_RELATION,DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2387,2,UPDATE_RELATION,DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2389,2,MOVE,Note_2
+2390,2,MOVE,Note_2
+2391,2,UPDATE_RELATION,DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2391,2,UPDATE_RELATION,Note_2-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2394,2,MOVE,Note_2-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2413,3,MOVE,Note_1
+2414,3,MOVE,Note_1
+2415,3,MOVE,Note_1
+2432,3,MOVE,Note_3
+2435,3,MOVE,Note_3
+2437,3,MOVE,Note_3
+2440,3,CREATE_OBJECT,Sticker_23
+2447,3,CREATE_OBJECT,Sticker_24
+2449,3,UPDATE_RELATION,Note_3-DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-
+2449,3,MOVE,Sticker_24
+2450,3,UPDATE_RELATION,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-
+2450,3,UPDATE_RELATION,Note_3-DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-
+2450,3,MOVE,Sticker_24
+2459,-1,LINEAR_SEQ,Linear sequencing
+2485,2,MOVE,Keyboard
+2488,2,MOVE,Keyboard
+2500,2,CREATE_OBJECT,Note_4
+2599,1,MOVE,Note_4
+2606,2,CREATE_OBJECT,Note_5
+2606,3,CREATE_OBJECT,StorageArea_8
+2606,2,ADD_OBJ_TO_GROUP,Note_5 -> StorageArea_8
+2606,2,SHRINK,Note_5
+2617,-1,ENTER_GROUP_NAME,ftr name is: ftr
+2618,2,MOVE,ftr
+2619,-1,REMOVE_OBJ_FROM_GROUP,Note_5 -> ftr
+2619,2,REMOVE_OBJ_FROM_GROUP,Note_5 -> ftr
+2619,2,MOVE,Note_5
+2620,2,DELETE_GROUP,ftr
+2625,2,MOVE,Note_5
+2627,2,ENLARGE,Note_5
+2629,2,MOVE,Note_5
+2667,1,MOVE,Note_5
+2669,1,SHRINK,Note_5
+2671,1,NORMAL,Note_5
+2676,3,CREATE_OBJECT,Note_6
+2678,3,MOVE,Note_6
+2682,2,MOVE,Note_5
+2688,2,CREATE_OBJECT,Sticker_25
+2691,2,UPDATE_RELATION,Note_5-Note_2-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2691,2,MOVE,Sticker_25
+2695,2,CREATE_OBJECT,Sticker_26
+2698,2,UPDATE_RELATION,Note_4-Note_5-Note_2-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2698,2,MOVE,Sticker_26
+2739,3,MOVE,Note_6
+2740,3,CREATE_OBJECT,Note_7
+2741,3,CREATE_OBJECT,Sticker_27
+2741,3,CREATE_OBJECT,Note_7-
+2741,3,UPDATE_RELATION,Note_7-
+2743,3,DELETE_RELATION,Note_7-
+2743,3,UPDATE_RELATION,Note_6-Note_3-DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-
+2743,3,MOVE,Sticker_27
+2745,3,UPDATE_RELATION,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2745,3,UPDATE_RELATION,Note_6-DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2745,3,MOVE,Sticker_27
+2745,3,DELETE_NOTE,Note_7
+2745,-1,UPDATE_NOTE,Note_7: 
+2823,2,MOVE,Sequence evaluation
+2829,2,MOVE,Note_6-DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2830,2,UPDATE_RELATION,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2830,2,MOVE,Sticker_27
+2831,2,MOVE,Note_6
+2833,2,MOVE,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2836,2,MOVE,DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2842,2,MOVE,Note_6
+2847,2,MOVE,Note_6
+2865,2,MOVE,Note_6
+2866,2,SHRINK,Note_6
+2868,2,MOVE,Note_6
+2869,2,MOVE,Note_6
+2870,2,CREATE_OBJECT,Sticker_28
+2876,1,NORMAL,Sticker_28
+2880,1,ROTATE,Sticker_28
+2882,2,UPDATE_RELATION,Note_6-Note_4-Note_5-Note_2-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-
+2882,2,MOVE,Sticker_28
+2883,2,CREATE_OBJECT,Sticker_29
+2887,2,NORMAL,Sticker_29
+2891,2,ROTATE,Sticker_29
+2894,2,UPDATE_RELATION,Note_6-Note_4-Note_5-Note_2-DataSlip_14-DataSlip_11-DataSlip_17-DataSlip_2-DataSlip_18-DataSlip_6-DataSlip_9-DataSlip_3-DataSlip_12-DataSlip_5-DataSlip_8-DataSlip_15-DataSlip_4-DataSlip_1-DataSlip_16-DataSlip_20-DataSlip_7-DataSlip_13-DataSlip_19-DataSlip_10-Note_3-
+2894,2,MOVE,Sticker_29
+2899,3,MOVE,Keyboard
+2933,2,MOVE,Keyboard
+2960,-1,CREATE_OBJECT,Note_8
+2960,-1,UPDATE_NOTE,Note_8: The answer: more things to stay for_
+2960,-1,SAVE,null
+2961,-1,CLOSING,
+2961,1,INTERACTION_TIME,247725 of 1308478
+2961,1,SLIP_INTERACTION,116 of 640
+2961,1,GROUP_INTERACTION,33 of 119
+2961,1,NOTES_INTERACTION,45 of 235
+2961,1,REL_INTERACTION,1 of 15
+2961,2,INTERACTION_TIME,529239 of 1308478
+2961,2,SLIP_INTERACTION,221 of 640
+2961,2,GROUP_INTERACTION,57 of 119
+2961,2,NOTES_INTERACTION,164 of 235
+2961,2,REL_INTERACTION,9 of 15
+2961,3,INTERACTION_TIME,531514 of 1308478
+2961,3,SLIP_INTERACTION,303 of 640
+2961,3,GROUP_INTERACTION,29 of 119
+2961,3,NOTES_INTERACTION,26 of 235
+2961,3,REL_INTERACTION,5 of 15
+2961,-1,UPDATE_NOTE,Note_0: The question is: Should Annie leave Windy Creek or should she stay? And why?
+2961,-1,UPDATE_NOTE,Note_1: - Think about slips (3, 9 and 12). They should be in one group._- Think about slips (4, 8 and 15). They should be in one group._- Think about slips (11 and 14). They should be in one group._dw
+2961,-1,UPDATE_NOTE,Note_2: this is to show the things to stay at windy creek_
+2961,-1,UPDATE_NOTE,Note_3: things why she should move
+2961,-1,UPDATE_NOTE,Note_4: good activities_
+2961,-1,UPDATE_NOTE,Note_5: better education_d
+2961,-1,UPDATE_NOTE,Note_6: move_
+2961,-1,UPDATE_NOTE,Note_8: The answer: more things to stay for_
