@@ -4,7 +4,14 @@
 
 import glob, csv, os
 import pickle
+import re
 
+
+def removeSuccessiveDuplicates(theString):
+	for i in theString:
+		dup = i+i
+		theString = re.sub(dup, i, theString)
+	return theString
 
 
 def csvToActionDB(dbFileName, dirName):
@@ -13,6 +20,8 @@ def csvToActionDB(dbFileName, dirName):
 	print listOfFiles, len(listOfFiles), type(listOfFiles)
 	fWrite = open(dbFileName, 'w+')
 	writer = csv.writer(fWrite)
+	fWrite1 = open(dbFileName[:-3]+"rduplDB", 'w+')
+	writer1 = csv.writer(fWrite1)
 	fWrite2 = open(dbFileName[:-3]+"stringDB", 'w+')
 	writer2 = csv.writer(fWrite2)
 	with open(dbFileName[:-3]+"pickle",'wb') as f:
@@ -58,10 +67,17 @@ def csvToActionDB(dbFileName, dirName):
 			if value == "ADD_OBJ_TO_GROUP":
 				eachList[index] = "G"
 		eachTransaction.append(''.join(eachList))
-		writer.writerow(",".join(map(str,eachTransaction)))
 		writer2.writerow(eachTransaction)
 		setOfAbbrTransactions.append(eachTransaction)
+		# print eachTransaction, type(eachTransaction)
+		writer.writerow(",".join(map(str,eachTransaction))) # creating comma seperated sequences, successive duplicates are present
+		eachTransaction = removeSuccessiveDuplicates(eachTransaction[0]) # remove successive duplicates
+		writer1.writerow(",".join(map(str,[eachTransaction]))) # create CSV after removing successive duplicates
+	
+	
 	# print setOfAbbrTransactions
+
+
 
 
 # This function creates two seperate databases, each for 'High Achievers' and 'Low Achievers'
