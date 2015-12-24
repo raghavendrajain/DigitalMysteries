@@ -3,16 +3,20 @@
 
 
 import glob, csv, os
+import pickle
+
 
 
 def csvToActionDB(dbFileName, dirName):
 	listOfFiles = glob.glob(os.getcwd()+"/"+ dirName +"/*.csv")
-
-	# print listOfFiles, len(listOfFiles)
+	# pickle.dump(list(listOfFiles), "listOfFiles.txt")
+	print listOfFiles, len(listOfFiles), type(listOfFiles)
 	fWrite = open(dbFileName, 'w+')
 	writer = csv.writer(fWrite)
 	fWrite2 = open(dbFileName[:-3]+"stringDB", 'w+')
 	writer2 = csv.writer(fWrite2)
+	with open(dbFileName[:-3]+"pickle",'wb') as f:
+		pickle.dump(listOfFiles,f)
 
 	setOfTransactions = []
 	for eachFile in listOfFiles:
@@ -34,7 +38,7 @@ def csvToActionDB(dbFileName, dirName):
 	global setOfAbbrTransactions
 	setOfAbbrTransactions = []
 	for eachList in setOfReducedTransactions:
-		print eachList
+		# print eachList
 		eachTransaction = []
 		for index, value in enumerate(eachList):
 			if value == "MOVE":
@@ -57,7 +61,7 @@ def csvToActionDB(dbFileName, dirName):
 		writer.writerow(",".join(map(str,eachTransaction)))
 		writer2.writerow(eachTransaction)
 		setOfAbbrTransactions.append(eachTransaction)
-	print setOfAbbrTransactions
+	# print setOfAbbrTransactions
 
 
 # This function creates two seperate databases, each for 'High Achievers' and 'Low Achievers'
