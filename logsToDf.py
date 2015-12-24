@@ -1,38 +1,19 @@
-# This file reads all the log files and takes the time, userId and Action of the event.
-# Some userId were negavtive I just took their absolute value and made the format of following:
-
-import glob, csv
-
-def start():
-	""" This function creates the list of all log files"""
-	listOfFiles = glob.glob('*.log')
-	return listOfFiles
+# Input: CSV file -------> time,userID,action  (the information about the object on which action is performed i.e. "slip" and "note" is totall lost)
+# Output: the sequential order of actions performed by each team. That is to say that the information for "each actor" and "time information" is totally lost. 
 
 
-def logsToCSV():
-	""" This function takes all the log files as input and extracts the timed sequence of the all 'Action' parameters irrespective of their 'Author'.
-	The CSV contains information about Time, author and Action"""
-	listOfFiles = start()
-	for eachFile in listOfFiles:
-		f = open(eachFile, 'rU')
-		fWrite = open(eachFile[:-3] + "csv", 'w')
-		csv_f = csv.reader(f)
-		rowCount = 0
-		for row in csv_f:
-			rowCount = rowCount + 1
-			if(len(row)) > 3 and rowCount > 1:
-				rowL = [row[0], abs(int(row[1])), row[2]]
-				writer = csv.writer(fWrite)
-				writer.writerow(rowL)
-				print rowL, rowCount
+import glob, csv, os
 
 
-def csvToActionDB(dbFileName):
-	logsToCSV()
-	listOfFiles = glob.glob('*.csv')
+def csvToActionDB(dbFileName, dirName):
+	listOfFiles = glob.glob(os.getcwd()+"/"+ dirName +"/*.csv")
+
 	# print listOfFiles, len(listOfFiles)
 	fWrite = open(dbFileName, 'w+')
 	writer = csv.writer(fWrite)
+	fWrite2 = open(dbFileName[:-3]+"stringDB", 'w+')
+	writer2 = csv.writer(fWrite2)
+
 	setOfTransactions = []
 	for eachFile in listOfFiles:
 		eachTransaction = []
@@ -73,8 +54,27 @@ def csvToActionDB(dbFileName):
 			if value == "ADD_OBJ_TO_GROUP":
 				eachList[index] = "G"
 		eachTransaction.append(''.join(eachList))
-		writer.writerow(eachTransaction)
+		writer.writerow(",".join(map(str,eachTransaction)))
+		writer2.writerow(eachTransaction)
 		setOfAbbrTransactions.append(eachTransaction)
 	print setOfAbbrTransactions
 
-csvToActionDB('tran.DB')
+
+# This function creates two seperate databases, each for 'High Achievers' and 'Low Achievers'
+# The name of the output files of createDB() function have .stringDB as their suffixes. 
+
+def createDB():
+	names = ["HighAchievers", "LowAchieverse"]
+	for dirName in names:
+		fn = os.getcwd()+"/"+ dirName +"/tran" + dirName[:-9] + ".csv"
+		os.remove(fn) if os.path.exists(fn) else None
+		os.remove(fn[:-3]+"stringDB") if os.path.exists(fn[:-3]+"stringDB") else None
+		csvToActionDB(fn, dirName)
+
+		
+
+# Run this function
+createDB()
+
+
+
